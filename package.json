@@ -33,7 +33,7 @@
   "devDependencies": {
     "@types/cors": "^2.8.12",
     "@types/express": "^4.17.13",
-    "@types/node": "^16.11.12",
+    "@types/node": "^17.0.8",
     "dotenv-webpack": "^7.0.3",
     "node-env-run": "^4.0.2",
     "nodemon-webpack-plugin": "^4.7.0",
