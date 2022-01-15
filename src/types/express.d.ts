@@ -5,5 +5,5 @@ type typedResponse = Express.Response & {
 };
 export type ExpressMiddleware<request = {}, response = {}> = (
   request: Express.Request & request,
-  respoonse: typedResponse & response
+  response: typedResponse & response
 ) => any;
